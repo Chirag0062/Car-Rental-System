@@ -8,19 +8,16 @@ Diverse Car Selection: Choose from a variety of cars based on your preferences a
 
 # How to Use:
 Renting a Car:
-
 1) Navigate to the user-friendly rental interface.
 -Select your preferred car based on model, features, and availability.
-
 2) Vehicle Tracking:
 -Access real-time details about your rented car.
 -Stay updated on the location and status of your vehicle.
-
 3) Car Selection:
 -Explore a diverse fleet of cars.
 -Filter cars based on your preferences, including model, type, and more.
 
 # Technology used 
-# JAVA
-# OOPS CONCEPT 
-# VS-CODE
+JAVA
+OOPS CONCEPT 
+VS-CODE
